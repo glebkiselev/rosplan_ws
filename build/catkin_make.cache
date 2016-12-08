@@ -1,0 +1,2 @@
+visualization
+-DCATKIN_DEVEL_PREFIX=/home/gleb/rosplan_ws/devel -DCMAKE_INSTALL_PREFIX=/home/gleb/rosplan_ws/install -G Unix Makefiles

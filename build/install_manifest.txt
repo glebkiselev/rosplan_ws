@@ -1,0 +1,11 @@
+/home/gleb/rosplan_ws/install/_setup_util.py
+/home/gleb/rosplan_ws/install/env.sh
+/home/gleb/rosplan_ws/install/setup.bash
+/home/gleb/rosplan_ws/install/setup.sh
+/home/gleb/rosplan_ws/install/setup.zsh
+/home/gleb/rosplan_ws/install/.rosinstall
+/home/gleb/rosplan_ws/install/share/visualization/srv/PlanNodes.srv
+/home/gleb/rosplan_ws/install/lib/pkgconfig/visualization.pc
+/home/gleb/rosplan_ws/install/share/visualization/cmake/visualizationConfig.cmake
+/home/gleb/rosplan_ws/install/share/visualization/cmake/visualizationConfig-version.cmake
+/home/gleb/rosplan_ws/install/share/visualization/package.xml

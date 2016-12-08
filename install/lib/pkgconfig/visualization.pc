@@ -1,0 +1,8 @@
+prefix=/home/gleb/rosplan_ws/install
+
+Name: visualization
+Description: Description of visualization
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/gleb/rosplan_ws/install/lib 
+Requires: message_runtime roscpp rospy std_msgs
